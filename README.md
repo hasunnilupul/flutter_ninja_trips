@@ -1,2 +1,3 @@
-# flutter_ninja_trips
-Simple Flutter App with animations
+# ninja_trips
+
+A new Ninja Flutter project.
